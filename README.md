@@ -6,7 +6,7 @@
 * Maven
 * Java 8
 
-### Dependecies
+### Dependencies
 _**pom.xml**_
 ```xml
 <project xmlns="http://maven.apache.org/POM/4.0.0"
